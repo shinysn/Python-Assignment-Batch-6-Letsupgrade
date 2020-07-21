@@ -1,0 +1,19 @@
+Batch 6 Day 1 Assignment
+
+1. What is Python ? What are the ways to install python in your PC ?
+
+Python is a popular high level programming language. It was created by Guido van Rossum, and released in 1991. Python has a simple syntax. This language used for web application, software development ect...
+
+The ways to install python in you PC,
+i) Install Anaconda--> individual essential-->launch Jupyter NB
+ii)Python installer
+
+
+2. What are code Environment? Types?
+
+Code Environment is the place where we write the code, compile, run, view the code and execute the output of the code.
+
+Types:
+i) Text Editor(Visual studio)
+ii) Full IDE(Spyder)
+iii)Note Book(jupyter)
